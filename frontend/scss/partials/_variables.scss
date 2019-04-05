@@ -1,0 +1,55 @@
+/* In need of overwriting bitters-variables, place them here. */
+/* See: bower_components/bitters/core/variables.scss */
+
+
+/* Place individual variables here */
+
+// Breakpoints
+//$bp1: 320px;
+$bp2: 480px;
+$bp3: 600px;
+$bp4: 768px;
+$bp5: 1110px;
+$bp6: 1280px;
+$bp7: 1920px;
+
+// Colors
+$white: #fff;
+$darkWhite: #EDEEE9;
+$black: #242017;
+
+$darkBlue: #153763;
+$blue: #005093;
+$lightBlue: #4291D3;
+
+$darkGray: #525355;
+$lightGray: #D8D8D8;
+
+$primarycolor: #1D1E1F;
+$error: #3E3E40;
+$warning: #f8c537;
+$check: #27ae60;
+
+$red: rgb(231,76,60);
+
+//global variables
+$wrapperPadding: 50px;
+
+// font weight
+$light: 300;
+$regular: 400;
+$semibold: 600;
+$bold: 700;
+
+//z-index navigation elements
+$z-index-navigation : 4;
+
+//padding space (left/right) for sections
+$side-space-mobile: 30px;
+$side-space-desktop: 120px;
+
+//grid content width
+$content-width: 980px;
+
+$standard-margin: 25px;
+

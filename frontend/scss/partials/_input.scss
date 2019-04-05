@@ -1,0 +1,24 @@
+  input[type="number"], input[type="password"] {
+    @include transition(all .5s ease);
+    color: $primarycolor;
+    width: calc(100% - 10px);
+    padding: 5px;
+    background-color: $white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid $black;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    max-width: 150px;
+    border-radius: 0;
+    &:focus, &:hover {
+      outline: none;
+    }
+  }
+
+  button {
+    @extend %button;
+    cursor: pointer;
+    margin-top: $standard-margin;
+  }

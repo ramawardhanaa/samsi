@@ -1,0 +1,35 @@
+footer {
+  font-family: 'Nanum Gothic Coding', monospace;
+  background: $black;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 13px 0;
+  text-align: center;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      list-style: none;
+      display: inline-block;
+      padding: 0 30px;
+
+      a {
+        @include transition(all .3s ease);
+        @include font-size(22);
+        color: $white;
+        text-decoration: none;
+      }
+    }
+  }
+
+  @include media($bp4) {
+    ul {
+      li {
+        padding: 0 100px;
+      }
+    }
+  }
+}

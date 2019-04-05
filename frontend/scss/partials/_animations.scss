@@ -1,0 +1,14 @@
+.fade-enter-active, .fade-leave-active {
+  transition: all .3s;
+  transform: scale(1);
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+  transform: scale(0.9);
+}
+.spinner-fade-enter-active, .spinner-fade-leave-active {
+  transition: opacity .4s;
+}
+.spinner-fade-enter, .spinner-fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
