@@ -225,14 +225,24 @@ class Dataset:
     def get_dataset(self):
         try:
             self.dataset[:] = []  # empty the dataset before take new data
-
+            self.dataset.append(
+                {
+                    "sourceId": "scale-{0}".format(self.api.client_id),
+                    "values": [
+                        {
+                            "ts": self.get_time(),
+                            "value": 20
+                        }
+                    ]
+                }
+                            )
             #self.get_fft_data()
             print("fft")
             #self.get_scale_data()
             print("berat")
-            self.get_dht22_data()
+            #self.get_dht22_data()
             print("lembab")
-            self.get_ds18b20_data()
+            #self.get_ds18b20_data()
             print("suhu")
             return self.dataset
         except Exception as e:
