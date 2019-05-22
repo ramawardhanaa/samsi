@@ -225,17 +225,7 @@ class Dataset:
     def get_dataset(self):
         try:
             self.dataset[:] = []  # empty the dataset before take new data
-            self.dataset.append(
-                {
-                    "sourceId": "scale-{0}".format(self.api.client_id),
-                    "values": [
-                        {
-                            "ts": self.get_time(),
-                            "value": 20
-                        }
-                    ]
-                }
-                            )
+            #self.dataset.append({"sourceId": "dht22-temperature-YSc3h664jkqsnftrUN2uhfNxKloTFK4y","values": [{"ts": "2019-04-05T21:52:42Z","value": 5}]})
             #self.get_fft_data()
             print("fft")
             #self.get_scale_data()

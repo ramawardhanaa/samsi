@@ -33,8 +33,12 @@ class SamsApi:
         try:
             self.auth = requests.post(self.token_url, json=self.token_payload,
                                       headers=self.access_header).json()
+            print(self.token_url)
+            print(self.token_payload)
+            
 
             token = self.auth['token_type'] + ' ' + self.auth['access_token']
+            print(token)
             self.write_token(token)
             return token
         except Exception as e:
@@ -64,6 +68,7 @@ class SamsApi:
             return False
 
     def call(self, payload):
+        print(payload)
         api_call = self.send_data(payload)
         
         if api_call == 401:

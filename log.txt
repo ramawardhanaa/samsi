@@ -1,345 +1,294 @@
 take dataset...
-2019-04-02T14:34:06Z
-something went wrong by collecting the audio dataset! Error: Error querying device -1
-2019-04-02T14:34:06Z
+2019-05-22T12:30:59Z
 has log files...
-2019-04-02T14:34:06Z
+2019-05-22T12:30:59Z
 log dataset...
-2019-04-02T14:34:06Z
+2019-05-22T12:30:59Z
 try to post data
-2019-04-02T14:34:06Z
-send to api failed! Status code: 500
-2019-04-02T14:34:07Z
+2019-05-22T12:30:59Z
+send to api failed! Status code: 400
+2019-05-22T12:31:01Z
+send to api failed! Status code: 400
+2019-05-22T12:31:03Z
+try to post data
+2019-05-22T12:31:08Z
+send to api failed! Status code: 400
+2019-05-22T12:31:10Z
+send to api failed! Status code: 400
+2019-05-22T12:31:11Z
+try to post data
+2019-05-22T12:31:16Z
+send to api failed! Status code: 400
+2019-05-22T12:31:18Z
+send to api failed! Status code: 400
+2019-05-22T12:31:20Z
 take dataset...
-2019-04-02T14:36:56Z
-something went wrong by collecting the audio dataset! Error: Error querying device -1
-2019-04-02T14:36:56Z
+2019-05-22T12:34:48Z
 has log files...
-2019-04-02T14:36:56Z
+2019-05-22T12:34:48Z
 log dataset...
-2019-04-02T14:36:56Z
+2019-05-22T12:34:48Z
 try to post data
-2019-04-02T14:36:56Z
-send to api failed! Status code: 500
-2019-04-02T14:36:57Z
-send to api failed! Status code: 500
-2019-04-02T14:36:58Z
-File corrupted! Delete file...
-2019-04-02T14:36:58Z
-wait: 900
-2019-04-02T14:37:03Z
+2019-05-22T12:34:48Z
+send to api failed! Status code: 400
+2019-05-22T12:34:52Z
+send to api failed! Status code: 400
+2019-05-22T12:34:54Z
+try to post data
+2019-05-22T12:34:59Z
+send to api failed! Status code: 400
+2019-05-22T12:35:02Z
+send to api failed! Status code: 400
+2019-05-22T12:35:06Z
+try to post data
+2019-05-22T12:35:11Z
+send to api failed! Status code: 400
+2019-05-22T12:35:13Z
+send to api failed! Status code: 400
+2019-05-22T12:35:15Z
+try to post data
+2019-05-22T12:35:20Z
+send to api failed! Status code: 400
+2019-05-22T12:35:22Z
+send to api failed! Status code: 400
+2019-05-22T12:35:24Z
+try to post data
+2019-05-22T12:35:29Z
+send to api failed! Status code: 400
+2019-05-22T12:35:30Z
+send to api failed! Status code: 400
+2019-05-22T12:35:32Z
+try to post data
+2019-05-22T12:35:37Z
+send to api failed! Status code: 400
+2019-05-22T12:35:39Z
+send to api failed! Status code: 400
+2019-05-22T12:35:42Z
+try to post data
+2019-05-22T12:35:47Z
+send to api failed! Status code: 400
+2019-05-22T12:35:49Z
+send to api failed! Status code: 400
+2019-05-22T12:35:51Z
+try to post data
+2019-05-22T12:35:56Z
+send to api failed! Status code: 400
+2019-05-22T12:35:58Z
+send to api failed! Status code: 400
+2019-05-22T12:36:00Z
+try to post data
+2019-05-22T12:36:05Z
+send to api failed! Status code: 400
+2019-05-22T12:36:07Z
+send to api failed! Status code: 400
+2019-05-22T12:36:09Z
+try to post data
+2019-05-22T12:36:14Z
+send to api failed! Status code: 400
+2019-05-22T12:36:16Z
+send to api failed! Status code: 400
+2019-05-22T12:36:18Z
+try to post data
+2019-05-22T12:36:23Z
+send to api failed! Status code: 400
+2019-05-22T12:36:25Z
+send to api failed! Status code: 400
+2019-05-22T12:36:27Z
+try to post data
+2019-05-22T12:36:32Z
+send to api failed! Status code: 400
+2019-05-22T12:36:34Z
+send to api failed! Status code: 400
+2019-05-22T12:36:36Z
+try to post data
+2019-05-22T12:36:41Z
+send to api failed! Status code: 400
+2019-05-22T12:36:43Z
+send to api failed! Status code: 400
+2019-05-22T12:36:46Z
+try to post data
+2019-05-22T12:36:51Z
+send to api failed! Status code: 400
+2019-05-22T12:36:54Z
+send to api failed! Status code: 400
+2019-05-22T12:36:56Z
+try to post data
+2019-05-22T12:37:01Z
+send to api failed! Status code: 400
+2019-05-22T12:37:03Z
+send to api failed! Status code: 400
+2019-05-22T12:37:06Z
+try to post data
+2019-05-22T12:37:11Z
+send to api failed! Status code: 400
+2019-05-22T12:37:13Z
 take dataset...
-2019-04-02T15:14:22Z
+2019-05-22T12:44:20Z
+has log files...
+2019-05-22T12:44:20Z
+log dataset...
+2019-05-22T12:44:20Z
+try to post data
+2019-05-22T12:44:20Z
+send to api failed! Status code: 400
+2019-05-22T12:44:23Z
+send to api failed! Status code: 400
+2019-05-22T12:44:25Z
 take dataset...
-2019-04-02T15:16:40Z
+2019-05-22T12:46:09Z
+has log files...
+2019-05-22T12:46:09Z
+log dataset...
+2019-05-22T12:46:09Z
+try to post data
+2019-05-22T12:46:09Z
+send to api failed! Status code: 400
+2019-05-22T12:46:12Z
+send to api failed! Status code: 400
+2019-05-22T12:46:14Z
+try to post data
+2019-05-22T12:46:19Z
+send to api failed! Status code: 400
+2019-05-22T12:46:21Z
+send to api failed! Status code: 400
+2019-05-22T12:46:23Z
+take dataset...
+2019-05-22T12:49:48Z
+has log files...
+2019-05-22T12:49:48Z
+log dataset...
+2019-05-22T12:49:48Z
+try to post data
+2019-05-22T12:49:48Z
+get_access_token() takes 1 positional argument but 2 were given
+2019-05-22T12:49:48Z
+wait: 10
+2019-05-22T12:49:48Z
+take dataset...
+2019-05-22T12:49:58Z
+has log files...
+2019-05-22T12:49:58Z
+log dataset...
+2019-05-22T12:49:58Z
+try to post data
+2019-05-22T12:49:58Z
+get_access_token() takes 1 positional argument but 2 were given
+2019-05-22T12:49:58Z
+wait: 10
+2019-05-22T12:49:58Z
+take dataset...
+2019-05-22T12:50:51Z
+has log files...
+2019-05-22T12:50:51Z
+log dataset...
+2019-05-22T12:50:51Z
+try to post data
+2019-05-22T12:50:52Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:50:54Z
+send to api failed! Status code: False
+2019-05-22T12:50:54Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:50:56Z
+send to api failed! Status code: False
+2019-05-22T12:50:56Z
+try to post data
+2019-05-22T12:51:01Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:51:02Z
+send to api failed! Status code: False
+2019-05-22T12:51:02Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:51:04Z
+send to api failed! Status code: False
+2019-05-22T12:51:04Z
+try to post data
+2019-05-22T12:51:09Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:51:11Z
+send to api failed! Status code: False
+2019-05-22T12:51:11Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:51:12Z
+send to api failed! Status code: False
+2019-05-22T12:51:13Z
+take dataset...
+2019-05-22T12:53:01Z
+has log files...
+2019-05-22T12:53:01Z
+log dataset...
+2019-05-22T12:53:01Z
+try to post data
+2019-05-22T12:53:01Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:53:04Z
+send to api failed! Status code: False
+2019-05-22T12:53:04Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:53:06Z
+send to api failed! Status code: False
+2019-05-22T12:53:06Z
+try to post data
+2019-05-22T12:53:11Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:53:13Z
+send to api failed! Status code: False
+2019-05-22T12:53:13Z
+failed to take access token: 'dict' object has no attribute 'status_code'
+2019-05-22T12:53:15Z
+send to api failed! Status code: False
+2019-05-22T12:53:15Z
+take dataset...
+2019-05-22T12:55:09Z
+has log files...
+2019-05-22T12:55:09Z
+log dataset...
+2019-05-22T12:55:09Z
+try to post data
+2019-05-22T12:55:09Z
+send to api failed! Status code: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1VSTRNRGczTnpGRk9FWkZPRGhEUVRoRFFqTXlNRVE0T0VNMU16azFNRFExUlVWQk1ETkNOUSJ9.eyJpc3MiOiJodHRwczovL3NhbXMtcHJvamVjdC5ldS5hdXRoMC5jb20vIiwic3ViIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHlAY2xpZW50cyIsImF1ZCI6InNhbXMtZHdoLXdlYi1hcGkiLCJpYXQiOjE1NTg1MDQ1MTIsImV4cCI6MTU1ODU5MDkxMiwiYXpwIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHkiLCJzY29wZSI6ImRldmljZSIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.Osw2agNOd-utX4FE5LhZtPvnKv5qdpMH6U0Soqv0hOthfgUTLwnNoOUdjz8ICK-iKwDq3bGg5bAO22wikrVduPxFWuB4gLS9F2-ENzS2GBkOhtY3QH7JujhmIGX4KQM_vcCGOzg7H3W8hwDF-unT_uGRxTUdmz-biGrLtsJUcgy0zERVChP-js0riRiDvjZJamfLiZWvMylk9wDVXYg57v7zEmS3BAtw2ul6ZG2id8gWkGyJeWJT1eQ324mcKj-91LP-mcFpG1dW3y6dBpiNP5gGsURMp1Zobovdqw_MPOj7Wj-2atxMgJMWdqDrqNRyKSFy2ThWHPZ7xDdpyDzEmg
+2019-05-22T12:55:12Z
+send to api failed! Status code: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1VSTRNRGczTnpGRk9FWkZPRGhEUVRoRFFqTXlNRVE0T0VNMU16azFNRFExUlVWQk1ETkNOUSJ9.eyJpc3MiOiJodHRwczovL3NhbXMtcHJvamVjdC5ldS5hdXRoMC5jb20vIiwic3ViIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHlAY2xpZW50cyIsImF1ZCI6InNhbXMtZHdoLXdlYi1hcGkiLCJpYXQiOjE1NTg1MDQ1MTUsImV4cCI6MTU1ODU5MDkxNSwiYXpwIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHkiLCJzY29wZSI6ImRldmljZSIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.kM4EF-eXRhaCAzExkybJ7Oxsfn-09njOF3_LdAel-C2JHQDcHs9mfiYKoTpyb-4acQH9jQ2LaglkdX5YQSnKbnYKb3nT2gZpGX7hG9FrsbuML2Jx_zVcYh_jVlPyvncAQrE4HFhV4PTGMdVC1u84TowuFbjcaS5FfpT_PxAkPvcqq_-RGdHm1x27x25bsvIjVq5pe8DdGvoxuU0GdpzPa-toqHtXLWpIBm8dQVcQJNqo5YvFQB5FD8cnGIjnml6AHfdQAIUi6GwszS--_jlt-XLfI1LQoavvBD-jqwofTJAuUCJVHa1N_F3UMfy-0Oezh9NYCEYAxy-GV0UCbTmKIg
+2019-05-22T12:55:15Z
+try to post data
+2019-05-22T12:55:20Z
+send to api failed! Status code: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1VSTRNRGczTnpGRk9FWkZPRGhEUVRoRFFqTXlNRVE0T0VNMU16azFNRFExUlVWQk1ETkNOUSJ9.eyJpc3MiOiJodHRwczovL3NhbXMtcHJvamVjdC5ldS5hdXRoMC5jb20vIiwic3ViIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHlAY2xpZW50cyIsImF1ZCI6InNhbXMtZHdoLXdlYi1hcGkiLCJpYXQiOjE1NTg1MDQ1MjEsImV4cCI6MTU1ODU5MDkyMSwiYXpwIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHkiLCJzY29wZSI6ImRldmljZSIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.ezDCY4vyPByh1zuzS5bl2QwYRW0MDc7W_Wt4ygQ13q6WB33ZX6j5IvHhfBqF7QYkrB7PHsNk6G6qt60BVwkfPDFcwLv2rnDsbd1q1pARtGgb4OEeJpgE2eN-O4iaq889nyGoZMCbNJPKscxCA1ZzZEWmpOHMFzy8T0fwLxoiAGfki4NQJX2bFhu0-18gzl-QQ2gu4TosnvlNKa9EVGfyFT1kcbY5IF-GRiSM83BwH5WherAxfatGqH46UHXmdLwjx_eMsTYUNGyXFNeZUEkFD-tsotf3VV7ZsZ6uTcqoKBK_SBvdsRMX-t2jnWZ_z02Su63-k4hzKMii0Nk28Tr_uA
+2019-05-22T12:55:21Z
+send to api failed! Status code: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1VSTRNRGczTnpGRk9FWkZPRGhEUVRoRFFqTXlNRVE0T0VNMU16azFNRFExUlVWQk1ETkNOUSJ9.eyJpc3MiOiJodHRwczovL3NhbXMtcHJvamVjdC5ldS5hdXRoMC5jb20vIiwic3ViIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHlAY2xpZW50cyIsImF1ZCI6InNhbXMtZHdoLXdlYi1hcGkiLCJpYXQiOjE1NTg1MDQ1MjMsImV4cCI6MTU1ODU5MDkyMywiYXpwIjoiWVNjM2g2NjRqa3FzbmZ0clVOMnVoZk54S2xvVEZLNHkiLCJzY29wZSI6ImRldmljZSIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.QTDoQb77Q92heqCca6hMx3qzePMDS4B8d7uWk5KA4dCTSUov2RxQWpm7Ce6TfUuvDx_lIiTmmMxbxfJGVi4H2mQps12lCBbSNoE1TJteIRzvNhiVHvWZDXANngsjaIylIkJi7G-n_CSyn2d5biwp2FFGAXm45yG4VSNf_ddds3SKzbNSbLM_ebUFkXcgx5eh_SQvE2lI4ox0fKoL0nON9NirZNCr5Cvuqg3pNqsdb0BsDQGLg2zlv3BGUOpBPknAxe_ooM2L1ikpq2oiPdV8XxV9DsoSzS9w0xVk_RTymbnC3lLHrHkeZNUWgxca4gAR-kACbNmCP_z2ERTPPfBeJQ
+2019-05-22T12:55:24Z
+take dataset...
+2019-05-22T13:03:49Z
+has log files...
+2019-05-22T13:03:49Z
+log dataset...
+2019-05-22T13:03:49Z
+try to post data
+2019-05-22T13:03:49Z
+send to api failed! Status code: 400
+2019-05-22T13:03:52Z
+send to api failed! Status code: 400
+2019-05-22T13:03:55Z
+try to post data
+2019-05-22T13:04:00Z
+send to api failed! Status code: 400
+2019-05-22T13:04:02Z
+send to api failed! Status code: 400
+2019-05-22T13:04:05Z
+take dataset...
+2019-05-22T13:18:17Z
+has log files...
+2019-05-22T13:18:17Z
+log dataset...
+2019-05-22T13:18:17Z
+try to post data
+2019-05-22T13:18:17Z
+send to api failed! Status code: 400
+2019-05-22T13:18:20Z
+send to api failed! Status code: 400
+2019-05-22T13:18:23Z
+take dataset...
+2019-05-22T13:19:27Z
 dataset posted!
-2019-04-02T15:16:53Z
+2019-05-22T13:19:30Z
 wait: 900
-2019-04-02T15:16:53Z
-take dataset...
-2019-04-02T15:18:37Z
-has log files...
-2019-04-02T15:18:47Z
-log dataset...
-2019-04-02T15:18:48Z
-try to post data
-2019-04-02T15:18:48Z
-status code ok! Delete file...
-2019-04-02T15:18:49Z
-Expecting value: line 1 column 1 (char 0)
-2019-04-02T15:18:56Z
-wait: 900
-2019-04-02T15:18:56Z
-take dataset...
-2019-04-02T16:45:20Z
-has log files...
-2019-04-02T16:45:39Z
-log dataset...
-2019-04-02T16:45:39Z
-try to post data
-2019-04-02T16:45:39Z
-status code ok! Delete file...
-2019-04-02T16:45:41Z
-take dataset...
-2019-04-02T16:45:57Z
-take dataset...
-2019-04-02T16:46:49Z
-take dataset...
-2019-04-02T16:47:53Z
-has log files...
-2019-04-02T16:48:12Z
-log dataset...
-2019-04-02T16:48:12Z
-try to post data
-2019-04-02T16:48:12Z
-status code ok! Delete file...
-2019-04-02T16:48:13Z
-try to post data
-2019-04-02T16:48:20Z
-status code ok! Delete file...
-2019-04-02T16:48:22Z
-Expecting value: line 1 column 1 (char 0)
-2019-04-02T16:48:28Z
-wait: 900
-2019-04-02T16:48:28Z
-take dataset...
-2019-04-02T16:49:43Z
-take dataset...
-2019-04-02T16:54:32Z
-has log files...
-2019-04-02T16:54:52Z
-log dataset...
-2019-04-02T16:54:52Z
-try to post data
-2019-04-02T16:54:52Z
-status code ok! Delete file...
-2019-04-02T16:54:55Z
-take dataset...
-2019-04-02T16:56:05Z
-take dataset...
-2019-04-02T16:56:34Z
-has log files...
-2019-04-02T16:56:53Z
-log dataset...
-2019-04-02T16:56:53Z
-try to post data
-2019-04-02T16:56:53Z
-status code ok! Delete file...
-2019-04-02T16:56:54Z
-try to post data
-2019-04-02T16:57:00Z
-status code ok! Delete file...
-2019-04-02T16:57:01Z
-try to post data
-2019-04-02T16:57:09Z
-status code ok! Delete file...
-2019-04-02T16:57:10Z
-try to post data
-2019-04-02T16:57:16Z
-status code ok! Delete file...
-2019-04-02T16:57:17Z
-Expecting value: line 1 column 1 (char 0)
-2019-04-02T16:57:24Z
-wait: 900
-2019-04-02T16:57:24Z
-take dataset...
-2019-04-02T17:02:06Z
-has log files...
-2019-04-02T17:02:14Z
-log dataset...
-2019-04-02T17:02:14Z
-try to post data
-2019-04-02T17:02:14Z
-status code ok! Delete file...
-2019-04-02T17:02:17Z
-take dataset...
-2019-04-02T17:02:36Z
-take dataset...
-2019-04-02T17:03:20Z
-has log files...
-2019-04-02T17:03:40Z
-log dataset...
-2019-04-02T17:03:40Z
-try to post data
-2019-04-02T17:03:40Z
-status code ok! Delete file...
-2019-04-02T17:03:42Z
-try to post data
-2019-04-02T17:03:48Z
-status code ok! Delete file...
-2019-04-02T17:03:49Z
-take dataset...
-2019-04-02T17:21:35Z
-take dataset...
-2019-04-02T17:27:00Z
-take dataset...
-2019-04-02T17:27:39Z
-has log files...
-2019-04-02T17:27:58Z
-log dataset...
-2019-04-02T17:27:58Z
-try to post data
-2019-04-02T17:27:58Z
-status code ok! Delete file...
-2019-04-02T17:27:59Z
-take dataset...
-2019-04-02T17:29:01Z
-take dataset...
-2019-04-02T17:30:41Z
-take dataset...
-2019-04-02T17:37:31Z
-has log files...
-2019-04-02T17:37:50Z
-log dataset...
-2019-04-02T17:37:50Z
-try to post data
-2019-04-02T17:37:50Z
-status code ok! Delete file...
-2019-04-02T17:37:54Z
-take dataset...
-2019-04-02T17:38:00Z
-has log files...
-2019-04-02T17:38:19Z
-log dataset...
-2019-04-02T17:38:19Z
-try to post data
-2019-04-02T17:38:19Z
-status code ok! Delete file...
-2019-04-02T17:38:22Z
-try to post data
-2019-04-02T17:38:28Z
-status code ok! Delete file...
-2019-04-02T17:38:29Z
-try to post data
-2019-04-02T17:38:35Z
-status code ok! Delete file...
-2019-04-02T17:38:37Z
-try to post data
-2019-04-02T17:38:44Z
-status code ok! Delete file...
-2019-04-02T17:38:45Z
-try to post data
-2019-04-02T17:38:51Z
-status code ok! Delete file...
-2019-04-02T17:38:54Z
-try to post data
-2019-04-02T17:39:00Z
-status code ok! Delete file...
-2019-04-02T17:39:02Z
-try to post data
-2019-04-02T17:39:08Z
-status code ok! Delete file...
-2019-04-02T17:39:10Z
-try to post data
-2019-04-02T17:39:17Z
-status code ok! Delete file...
-2019-04-02T17:39:18Z
-try to post data
-2019-04-02T17:39:24Z
-status code ok! Delete file...
-2019-04-02T17:39:26Z
-Expecting value: line 1 column 1 (char 0)
-2019-04-02T17:39:36Z
-wait: 900
-2019-04-02T17:39:36Z
-take dataset...
-2019-04-02T18:12:08Z
-has log files...
-2019-04-02T18:12:34Z
-log dataset...
-2019-04-02T18:12:34Z
-try to post data
-2019-04-02T18:12:34Z
-take dataset...
-2019-04-02T18:17:13Z
-has log files...
-2019-04-02T18:17:39Z
-log dataset...
-2019-04-02T18:17:39Z
-try to post data
-2019-04-02T18:17:39Z
-status code ok! Delete file...
-2019-04-02T18:17:43Z
-try to post data
-2019-04-02T18:17:49Z
-status code ok! Delete file...
-2019-04-02T18:17:50Z
-try to post data
-2019-04-02T18:17:58Z
-status code ok! Delete file...
-2019-04-02T18:17:59Z
-try to post data
-2019-04-02T18:18:05Z
-status code ok! Delete file...
-2019-04-02T18:18:08Z
-try to post data
-2019-04-02T18:18:14Z
-status code ok! Delete file...
-2019-04-02T18:18:15Z
-try to post data
-2019-04-02T18:18:23Z
-status code ok! Delete file...
-2019-04-02T18:18:24Z
-try to post data
-2019-04-02T18:18:30Z
-status code ok! Delete file...
-2019-04-02T18:18:32Z
-try to post data
-2019-04-02T18:18:38Z
-status code ok! Delete file...
-2019-04-02T18:18:39Z
-try to post data
-2019-04-02T18:18:45Z
-status code ok! Delete file...
-2019-04-02T18:18:46Z
-try to post data
-2019-04-02T18:18:53Z
-status code ok! Delete file...
-2019-04-02T18:18:56Z
-try to post data
-2019-04-02T18:19:02Z
-status code ok! Delete file...
-2019-04-02T18:19:03Z
-Expecting value: line 1 column 1 (char 0)
-2019-04-02T18:19:11Z
-wait: 900
-2019-04-02T18:19:11Z
-take dataset...
-2019-04-02T18:30:47Z
-has log files...
-2019-04-02T18:30:54Z
-log dataset...
-2019-04-02T18:30:54Z
-try to post data
-2019-04-02T18:30:55Z
-status code ok! Delete file...
-2019-04-02T18:30:57Z
-try to post data
-2019-04-02T18:31:04Z
-status code ok! Delete file...
-2019-04-02T18:31:06Z
-try to post data
-2019-04-02T18:31:13Z
-status code ok! Delete file...
-2019-04-02T18:31:14Z
-try to post data
-2019-04-02T18:31:20Z
-take dataset...
-2019-04-02T18:49:43Z
-something went wrong by collecting the dht22 dataset! Error: 'NoneType' object is not subscriptable
-2019-04-02T18:50:31Z
-something went wrong by collecting the dht22 dataset! Error: 'NoneType' object is not subscriptable
-2019-04-02T18:50:31Z
-has log files...
-2019-04-02T18:50:31Z
-log dataset...
-2019-04-02T18:50:31Z
-try to post data
-2019-04-02T18:50:31Z
-send to api failed! Status code: 500
-2019-04-02T18:50:34Z
-send to api failed! Status code: 500
-2019-04-02T18:50:36Z
-File corrupted! Delete file...
-2019-04-02T18:50:36Z
-Expecting value: line 1 column 1 (char 0)
-2019-04-02T18:50:41Z
-wait: 900
-2019-04-02T18:50:41Z
-
-
-2019-04-03T13:10:54Z
-take dataset...
-2019-04-03T13:12:25Z
-dataset posted!
-2019-04-03T13:13:13Z
-wait: 900
-2019-04-03T13:13:13Z
-take dataset...
-2019-04-07T20:05:07Z
-take dataset...
-2019-04-07T20:08:45Z
-dataset posted!
-2019-04-07T20:08:50Z
-wait: 900
-2019-04-07T20:08:50Z
+2019-05-22T13:19:30Z
